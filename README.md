@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on the Mobile Application Development simultaneously individual AI projects
 - 🌱 I’m currently learning the Serverless Computing and Cloud Architecture
-- 👯 I’m looking to collaborate on image processing and deep learning project especially related to the renewable energy
 - 📫 How to reach me: berkayvurkan@yahoo.com (checking daily)
 - Take a look at my shared packages:
   - [BNet](https://github.com/brkyvrkn/BNet)
